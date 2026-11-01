@@ -2,7 +2,6 @@
 
 Proyecto de practica para demostrar `COMMIT`, `ROLLBACK`, `SAVEPOINT`, claves foraneas y visibilidad entre dos sesiones usando una copia local de Chinook.
 
-> **Importante sobre el esquema:** los scripts se prepararon para el esquema indicado en la consigna: tablas `customer`, `invoice`, `invoice_line` y `track`, con columnas en `snake_case`. Antes de ejecutar, confirme que la variante importada realmente utiliza esos nombres. El script `04_validaciones.sql` contiene consultas de inspeccion. No cambie el esquema original ni desactive restricciones.
 
 ## 1. Requisitos
 
